@@ -1,0 +1,74 @@
+/* ================== XXL ================== */
+@media screen and (min-width: 1400px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/* ================== XL ================== */
+@media screen and (max-width: 1200px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/* ================== LG ================== */
+@media screen and (max-width: 992px) {
+  html {
+    font-size: 13px;
+  }
+  .img-food {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+  }
+  .info-food {
+    left: 5%;
+  }
+  .tab-content {
+    height: 60vh;
+  }
+}
+
+/* ================== MD ================== */
+@media screen and (max-width: 840px) {
+  html {
+    font-size: 13px;
+  }
+  .img-food {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+  }
+  .info-food {
+    left: 5%;
+  }
+  .tab-content {
+    height: 29vh;
+  }
+  .bg-nut {
+    width: 100%;
+  }
+}
+
+/* ================== SM ================== */
+@media screen and (max-width: 576px) {
+  html {
+    font-size: 13px;
+  }
+  .img-food {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+    height: 450px;
+  }
+  .info-food {
+    left: 5%;
+  }
+  .tab-content {
+    height: 47vh;
+  }
+  .bg-nut {
+    width: 100%;
+  }
+}
