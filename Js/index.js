@@ -935,7 +935,7 @@ function genHtml(i) {
         </div>  
         </div>
     </div>
-    <div class="overflow-y-auto col-11 col-xxl-6 col-xl-6 col-lg-11 col-md-11 col-sm-11 mx-auto mx-xxl-5 mx-xl-5 mx-lg-auto mx-md-auto mx-sm-auto py-4 pb-5">
+    <div class="overflow-y-auto h-100 col-11 col-xxl-6 col-xl-6 col-lg-11 col-md-11 col-sm-11 mx-auto mx-xxl-5 mx-xl-5 mx-lg-auto mx-md-auto mx-sm-auto py-4 pb-5">
         ${x.infoFood}
         <ul class="nav align-items-center gap-2 justify-content-center justify-content-xxl-between justify-content-xl-between justify-content-lg-between justify-content-md-between justify-content-sm-center nav-pills mb-3 border-bottom border-secondary-subtle pb-4" id="pills-tab" role="tablist">
         <li class="nav-item" role="presentation">
